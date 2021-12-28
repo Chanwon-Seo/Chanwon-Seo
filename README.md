@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ![HTML](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
+![javaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
 
 ### Back-End
 
 ![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
-![javaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-DB33F?style=flat-square&logo=spring&logoColor=white)
 ![spring_boot](https://img.shields.io/badge/spring_boot-DB33F?style=flat-square&logo=spring&logoColor=white)
 
