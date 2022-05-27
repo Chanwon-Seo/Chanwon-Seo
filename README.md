@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![spring_boot](https://img.shields.io/badge/spring_boot-DB33F?style=flat-square&logo=spring&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scwonn)](https://solved.ac/scwonn/)
-<a href="https://solved.ac/scwonn" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=scwonn"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanwon-Seo&show_icons=true&theme=cobalt)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chanwon-Seo&theme=onedark)](https://github.com/Chanwon-Seo/github-profile-trophy)
