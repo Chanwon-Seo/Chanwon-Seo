@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ### Front-End
 
-![HTML](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML&logoColor=white)
+<!-- ![HTML](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML&logoColor=white) -->
+
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
 ![javaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black)
 
