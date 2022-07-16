@@ -1,6 +1,5 @@
 ### 백엔드 개발자를 꿈꾸는 대학생
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_99chanwon/)](https://www.instagram.com/_99chanwon/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://clumsy-basketball-92b.notion.site/Chanwon-Seo-0a1d3e9ab78146c583c59c932305015)](https://clumsy-basketball-92b.notion.site/Chanwon-Seo-0a1d3e9ab78146c583c59c9323050153)
 
 <!--
