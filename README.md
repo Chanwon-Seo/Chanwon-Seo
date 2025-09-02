@@ -1,8 +1,11 @@
-# 🙋🏻‍♂️ About Me
+## Open Source Contributions
 
-안녕하세요, 복잡한 도메인을 풀어가는 데 흥미를 가진 주니어 개발자 서찬원입니다. <br>
-문제 해결의 본질을 탐구하며, 해결책을 찾아가는 과정에서 큰 즐거움을 느낍니다. <br> 
-특히 사용자 피드백과 성능 분석을 통해 최적화를 이루고, 더 나은 결과를 만들어내는 데 집중하고 있습니다.
+- [naver/fixture-monkey](https://github.com/naver/fixture-monkey)
+  - Fix Typo in JakartaArbitraryValidator ValidationFailedException message [#1217](https://github.com/naver/fixture-monkey/pull/1217)
+  - Fix validate container expression for `size` in `strict mode` [#1223](https://github.com/naver/fixture-monkey/pull/1223)
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+  - Fix links to Flyway reference documentation [#46976](https://github.com/spring-projects/spring-boot/pull/46976)
+  - Flyway Ignore Migration Patterns setting can't be set to an empty string [#46984](https://github.com/spring-projects/spring-boot/pull/46984)
 
 ## 💻 Problem Solving
 
